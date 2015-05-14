@@ -1,0 +1,17 @@
+{
+  "name": "Okashi Star",
+  "description": "",
+  "short_name": "OkashiStar",
+  "version": "1.0.0",
+  "author": "pastak",
+  "permissions": [
+    "<all_urls>",
+    "notifications",
+    "contextMenus",
+    "tabs",
+    "clipboardWrite",
+    "clipboardRead",
+    "storage"
+  ],
+  "manifest_version": 2
+}
